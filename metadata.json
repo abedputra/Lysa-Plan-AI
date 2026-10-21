@@ -1,0 +1,6 @@
+{
+  "name": "DevConsensus - Multi-AI Architecture & Debate Chamber",
+  "description": "Autonomous multi-model consensus, peer-review debate, and automated architecture synthesis dashboard for developers with human-in-the-loop steering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
