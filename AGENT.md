@@ -1,6 +1,7 @@
 # AGENT.md — Agent System Specification for Lysa Plan
 
-> **Target Audience**: AI Agents (Cursor Agent, Windsurf, Claude Code, Cline, Roo, AI Studio Build, and Autonomous Development Subagents) interacting with or extending the **Lysa Plan** codebase.
+> **Target Audience**: AI Agents (Cursor Agent, Windsurf, Claude Code, Cline, Roo, AI Studio Build, and Autonomous Development Subagents) interacting with or extending the **Lysa Plan** codebase.  
+> **Conceived & Created by**: [Abed Putra](https://abedputra.my.id) ([abedputra@gmail.com](mailto:abedputra@gmail.com)) | **License**: MIT License (Copyright 2026 Abed Putra)
 
 ---
 

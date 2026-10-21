@@ -1,7 +1,13 @@
 {
-  "name": "react-example",
+  "name": "lysa-plan",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
+  "license": "MIT",
+  "author": {
+    "name": "Abed Putra",
+    "email": "abedputra@gmail.com",
+    "url": "https://abedputra.my.id"
+  },
   "type": "module",
   "scripts": {
     "dev": "tsx server.ts",

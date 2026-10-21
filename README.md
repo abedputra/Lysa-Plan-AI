@@ -1,8 +1,10 @@
 # Lysa Plan — Multi-AI Architecture & Consensus Chamber
 
-> **Autonomous Multi-Model Peer-Review, Dynamic Model Support, Live Codebase Inspection, Real Terminal Verification & Agent-Ready Plan Export**
+> **Autonomous Multi-Model Peer-Review, Dynamic Model Support, Live Codebase Inspection, Real Terminal Verification & Agent-Ready Plan Export**  
+> **Conceived & Created by**: [Abed Putra](https://abedputra.my.id) ([abedputra@gmail.com](mailto:abedputra@gmail.com))
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![Author: Abed Putra](https://img.shields.io/badge/Creator-Abed%20Putra-06b6d4?logo=safari)](https://abedputra.my.id)
 
 ---
 
@@ -185,7 +187,11 @@ Lysa Plan tests code proofs in a real runtime environment:
 
 ## ⚖️ 5. Open Source License
 
-Lysa Plan is licensed under the **[MIT License](LICENSE)**.
+Lysa Plan is free, open-source software licensed under the **[MIT License](LICENSE)**.
+
+```
+Copyright (c) 2026 Abed Putra <abedputra@gmail.com> (https://abedputra.my.id)
+```
 
 ### Why the MIT License is Best for This Project:
 * **Maximum Permissiveness**: Anyone can use, clone, deploy, modify, and distribute Lysa Plan without restrictive barriers.
@@ -221,5 +227,12 @@ Lysa Plan Architecture
 
 ---
 
-## 📄 7. License
-MIT License. Built for software engineers who value architectural precision before execution.
+## 👤 7. Creator & Attribution
+
+* **Ideator & Author**: **Abed Putra**
+* **Email**: [abedputra@gmail.com](mailto:abedputra@gmail.com)
+* **Website / Portfolio**: [https://abedputra.my.id](https://abedputra.my.id)
+* **License**: [MIT License](LICENSE) — Copyright (c) 2026 Abed Putra.
+
+Built with passion for software engineers who value architectural precision before code execution.
+

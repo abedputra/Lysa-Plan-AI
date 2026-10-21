@@ -43,6 +43,8 @@ export const ConsensusSummaryView: React.FC<ConsensusSummaryViewProps> = ({
     const planContent = `# IMPLEMENTATION PLAN: ${session.title}
 > **Target Audience**: Autonomous AI Coding Agents (Cursor, Windsurf, Claude Code, VS Code Copilot) and Lead Developers.
 > **Verified by**: Lysa Plan Multi-AI Council (${summary.synthesizerModel})
+> **Creator & Author**: Abed Putra <abedputra@gmail.com> (https://abedputra.my.id)
+> **License**: MIT License
 > **Consensus Score**: ${summary.consensusScore}% | Generated: ${new Date(summary.generatedAt).toLocaleString()}
 
 ---

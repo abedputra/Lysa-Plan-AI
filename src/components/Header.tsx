@@ -49,6 +49,17 @@ export const Header: React.FC<HeaderProps> = ({
             <span className="font-bold text-sm tracking-tight text-zinc-100">Lysa Plan</span>
           </div>
 
+          <a
+            href="https://abedputra.my.id"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="hidden lg:inline-flex items-center gap-1 px-2 py-0.5 rounded-md text-[11px] text-zinc-400 hover:text-cyan-300 bg-zinc-900/90 border border-zinc-800 hover:border-zinc-700 transition"
+            title="Conceived & created by Abed Putra (abedputra@gmail.com)"
+          >
+            <span className="text-zinc-500">by</span>
+            <span className="text-zinc-200 font-medium hover:underline">Abed Putra</span>
+          </a>
+
           <div className="h-4 w-px bg-zinc-800 mx-0.5 hidden sm:block" />
 
           {/* Session Switcher */}
