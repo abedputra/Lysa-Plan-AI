@@ -1,4 +1,4 @@
-# Lysa Plan — Multi-AI Architecture & Consensus Chamber
+# Lysa Plan — Multi-AI Architecture & Consensus Chamber [BETA]
 
 > **Autonomous Multi-Model Peer-Review, Dynamic Model Support, Live Codebase Inspection, Real Terminal Verification & Agent-Ready Plan Export**  
 > **Conceived & Created by**: [Abed Putra](https://abedputra.my.id) ([abedputra@gmail.com](mailto:abedputra@gmail.com))
